@@ -28,14 +28,18 @@ This project is a simple implementation of the classic Simon game using HTML, CS
 
 # Features
 . Random Sequence Generation: 
+
         . Each level generates a new color sequence to follow.
         
 . User Input Handling: 
+
         . Click on buttons to repeat the sequence.
 . Level Tracking: 
+
         . The game displays the current level.
         
 . Highest Score Tracking:
+
         . The game displays and updates the highest score achieved.
 
 # Future Improvements

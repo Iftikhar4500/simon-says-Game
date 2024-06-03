@@ -27,12 +27,21 @@ This project is a simple implementation of the classic Simon game using HTML, CS
 . Press any key to start again after a game over.
 
 # Features
-. Random Sequence Generation: Each level generates a new color sequence to follow.
-. User Input Handling: Click on buttons to repeat the sequence.
-. Level Tracking: The game displays the current level.
-. Highest Score Tracking: The game displays and updates the highest score achieved.
+. Random Sequence Generation: 
+        . Each level generates a new color sequence to follow.
+        
+. User Input Handling: 
+        . Click on buttons to repeat the sequence.
+. Level Tracking: 
+        . The game displays the current level.
+        
+. Highest Score Tracking:
+        . The game displays and updates the highest score achieved.
 
 # Future Improvements
 . Add sounds to each button press for a more immersive experience.
+
 . Improve the UI design to make the game more visually appealing.
+
 . Add more levels of difficulty or different game modes.
+
